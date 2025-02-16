@@ -26,9 +26,6 @@ With a simple Streamlit UI, you can enter a prompt and instantly check whether i
    streamlit run app.py
    ```  
 
-## Demo Video  
-[Click here to see the demo](https://www.linkedin.com/posts/ritam-patra-959528242_responsibleai-ai-machinelearning-activity-7296933851417784321-5lAR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADw7-VUB3VvLKCwPoKf4u1stM7N49YLbJ_g)
-
 ## Why This Matters  
 AI safety is crucial. If we want AI to be reliable and trustworthy, we need safeguards against manipulation. This tool is a step toward responsible AI by identifying harmful prompts before they reach an AI model.  
 
